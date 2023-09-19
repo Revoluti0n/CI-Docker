@@ -1,5 +1,5 @@
 # CI with GitHub Actions and DockerHub
-This **Go API** is a simple app developed during this course, the main focus were **continuous integration with GitHub Actions and DockerHub**.
+This **Go API** is a simple containerized app developed during this course, the main focus were **continuous integration with GitHub Actions and DockerHub**.
 
 ## 📫 Contact me
 <a href="https://www.linkedin.com/in/kelvynxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
